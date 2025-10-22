@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, Delete) operation using Thymeleaf as the templating engine. It provides a user interface for managing employee data, including functionalities for adding, viewing, updating and deleting employee records. The application also incorporates Spring Security for authentication and authorization, defining different roles with varying access levels.
+This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, Delete) operation using Thymeleaf as the templating engine. It provides a user interface for managing employee data, including functionalities for adding, viewing, updating and deleting employee records. The application also incorporates Spring Security for authentication and authorization defining different roles with varying access levels.
 
 ## Key Features
 
