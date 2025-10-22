@@ -19,9 +19,6 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 *   [Setup](#setup)
 *   [Running the Project](#running-the-project)
 *   [Dependencies](#dependencies)
-*   [Contributing](#contributing)
-*   [License](#license)
-*   [Contact](#contact)
 
 ## Installation
 
@@ -42,7 +39,7 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 
         ```properties
         spring.datasource.url=jdbc:mysql://localhost:3306/application
-        spring.datasource.username=root
+        spring.datasource.username=your_mysql_username
         spring.datasource.password=your_mysql_password
         ```
 
@@ -121,23 +118,3 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 *   **Thymeleaf Extras Spring Security:** For integrating Spring Security with Thymeleaf.
 *   **Spring Boot DevTools:** For development-time support, such as automatic restarts.
 *   **MySQL Connector/J:** For connecting to MySQL databases.
-
-## Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive messages.
-4.  Push your changes to your fork.
-5.  Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the [Placeholder] License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-*   **Maintainer:** [Placeholder Name] - [Placeholder Email]
-*   **GitHub:** [Placeholder GitHub Profile]
-```
