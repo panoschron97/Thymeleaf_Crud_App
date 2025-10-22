@@ -1,4 +1,4 @@
-# Thymeleaf crud app
+# A thymeleaf employee tracker crud application for a company.
 
 ## Project Description
 
