@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, Delete) operation using Thymeleaf as the templating engine. It provides a user interface for managing employee data, including functionalities for adding, viewing, updating and deleting employee records. The application also incorporates Spring Security for authentication and authorization defining different roles with varying access levels.
+This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, Delete) operation using Thymeleaf as the templating engine. It provides a user interface for managing employee data including functionalities for adding, viewing, updating and deleting employee records. The application also incorporates Spring Security for authentication and authorization defining different roles with varying access levels.
 
 ## Key Features
 
@@ -10,7 +10,7 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 -   **Thymeleaf Templating:** Utilizes Thymeleaf to render dynamic HTML views.
 -   **Spring Data JPA:** Leverages Spring Data JPA for database interactions.
 -   **Spring Security:** Implements authentication and authorization using Spring Security.
--   **Role-Based Access Control:** Defines roles such as EMPLOYEE, MANAGER, and ADMIN with different privileges.
+-   **Role-Based Access Control:** Defines roles such as EMPLOYEE, MANAGER and ADMIN with different privileges.
 -   **Data Validation:** Implements data validation for employee attributes.
 
 ## Table of Contents
@@ -116,5 +116,5 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 *   **Spring Boot Starter Validation:** For implementing data validation.
 *   **Spring Boot Starter Web MVC:** For building web applications with Spring MVC.
 *   **Thymeleaf Extras Spring Security:** For integrating Spring Security with Thymeleaf.
-*   **Spring Boot DevTools:** For development-time support, such as automatic restarts.
+*   **Spring Boot DevTools:** For development-time support such as automatic restarts.
 *   **MySQL Connector/J:** For connecting to MySQL databases.
