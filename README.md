@@ -25,7 +25,7 @@ This Spring Boot application demonstrates a basic CRUD (Create, Read, Update, De
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/panoschron97/Thymeleaf_Crud_App.git
+    git clone https://github.com/GMKAKISTOS/Thymeleaf_Crud_App.git
     cd Thymeleaf_Crud_App
     ```
 
